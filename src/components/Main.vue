@@ -122,76 +122,77 @@
             </div>
         </div>
 
-        <!-- New middle section -->
-
-        <div class="grid grid-cols-4 gap-4 py-6">
+        <!-- Middle section -->
+        <div class="grid grid-cols-4 py-6">
             <div>
-                <div class="pb-2 border-b-2">
+                <div class="pb-2 border-b-2 mr-4">
                     <ul class="flex font-bold">
                         <li class="mr-4">পঠিত</li>
                         <li class="mr-4">আলোচিত</li>
                         <li>সুখবর</li>
                     </ul>
                 </div>
-                <div class="py-6 border-b">
-                    <span class="text-5xl font-bold text-gray-400 mb-4 block">১</span>
-                    <h3 class="font-bold">কামিকাজে ড্রোন দিয়ে রুশ সেনাদের নাস্তানাবুদ: ‘এ যেন কম্পিউটারে গেম খেলার মতো’</h3>
-                </div>
-                <div class="py-6 border-b">
-                    <span class="text-5xl font-bold text-gray-400 mb-4 block">২</span>
-                    <h3 class="font-bold">এত কষ্ট হচ্ছিল, মনে হচ্ছিল, আমি মারা যাব: তানজিন তিশা</h3>
-                </div>
-                <div class="py-6 border-b">
-                    <span class="text-5xl font-bold text-gray-400 mb-4 block">৩</span>
-                    <h3 class="font-bold">কারাগারে ৯৯ বর্গফুটের কক্ষে যেসব সুবিধা পাচ্ছেন ইমরান</h3>
-                </div>
-                <div class="py-6 border-b">
-                    <span class="text-5xl font-bold text-gray-400 mb-4 block">৪</span>
-                    <h3 class="font-bold">পিএসজি ছাড়ার ইচ্ছা ক্লাবকে জানিয়েছেন নেইমার</h3>
-                </div>
-                <div class="py-6 border-b">
-                    <span class="text-5xl font-bold text-gray-400 mb-4 block">৫</span>
-                    <h3 class="font-bold">পররাষ্ট্রসচিবকে মার্কিন কর্মকর্তা দুর্নীতি দমনের ক্ষেত্রে নিষেধাজ্ঞাকে ব্যবহার করে যুক্তরাষ্ট্র</h3>
+                <div class="border-r pr-4">
+                    <div class="py-6 border-b">
+                        <span class="text-5xl font-bold text-gray-400 mb-4 block">১</span>
+                        <h3 class="font-bold">কামিকাজে ড্রোন দিয়ে রুশ সেনাদের নাস্তানাবুদ: ‘এ যেন কম্পিউটারে গেম খেলার মতো’</h3>
+                    </div>
+                    <div class="py-6 border-b">
+                        <span class="text-5xl font-bold text-gray-400 mb-4 block">২</span>
+                        <h3 class="font-bold">এত কষ্ট হচ্ছিল, মনে হচ্ছিল, আমি মারা যাব: তানজিন তিশা</h3>
+                    </div>
+                    <div class="py-6 border-b">
+                        <span class="text-5xl font-bold text-gray-400 mb-4 block">৩</span>
+                        <h3 class="font-bold">কারাগারে ৯৯ বর্গফুটের কক্ষে যেসব সুবিধা পাচ্ছেন ইমরান</h3>
+                    </div>
+                    <div class="py-6 border-b">
+                        <span class="text-5xl font-bold text-gray-400 mb-4 block">৪</span>
+                        <h3 class="font-bold">পিএসজি ছাড়ার ইচ্ছা ক্লাবকে জানিয়েছেন নেইমার</h3>
+                    </div>
+                    <div class="py-6 border-b">
+                        <span class="text-5xl font-bold text-gray-400 mb-4 block">৫</span>
+                        <h3 class="font-bold">পররাষ্ট্রসচিবকে মার্কিন কর্মকর্তা দুর্নীতি দমনের ক্ষেত্রে নিষেধাজ্ঞাকে ব্যবহার করে যুক্তরাষ্ট্র</h3>
+                    </div>
                 </div>
             </div>
-            <div class=" col-span-2">
-
-                <div>
-                    <h2>খেলা</h2>
-                </div>
-                <div>
-                    <img class="" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5ea87917-3138-4343-a829-d5ab6d5d8056%2F268642_01_02.jpg">
-                    <p class=" relative">ইন্টার মায়ামির হয়ে দারুণ সময় কাটছে মেসির মেসির ছবি নিয়ে আবেগী ভক্তদের ভুল শুধরে দিলেন সাবেক ফুটবলার</p>
-                </div>
-            </div>
-            <div>
-               
-                <img class="w-full pb-4" src="https://tpc.googlesyndication.com/simgad/1353837965853906261">
-                
-                <div class="py-4 border-t">
-                    <div class="flex">
-                        <h1 class="text-md font-bold mr-2 mb-4">‘ম্যারাথন তো মাত্র শুরু হচ্ছে’, কমিউনিটি শিল্ডে হারের পর হলান্ড</h1>
-                        <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fd55c9a70-79ce-4024-af70-4fa6f1ffad8b%2F2023_08_06T175459Z_666061057_UP1EJ861DRLRJ_RTRMADP_3_SOCCER_ENGLAND_MCI_ARS_REPORT.JPG">
+            <div class=" col-span-3 pl-4">
+                <h1 class="pb-2 font-bold">খেলা</h1>
+                <div class="flex">
+                    <div class="w-2/3 pr-4 border-r">
+                        <img class="" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5ea87917-3138-4343-a829-d5ab6d5d8056%2F268642_01_02.jpg">
+                        <p class=" relative">ইন্টার মায়ামির হয়ে দারুণ সময় কাটছে মেসির মেসির ছবি নিয়ে আবেগী ভক্তদের ভুল শুধরে দিলেন সাবেক ফুটবলার</p>
                     </div>
-                    <span>৩ ঘণ্টা আগে</span>
-                </div>
-                <div class="py-4 border-t">
-                    <div class="flex">
-                        <h1 class="text-md font-bold mr-2 mb-4">গ্রিসে ফুটবল দাঙ্গায় নিহত এক, স্থগিত চ্যাম্পিয়নস লিগের ম্যাচ</h1>
-                        <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F35358332-2968-4542-ad6f-5bd8bfadd442%2F2023_08_08T110315Z_240339237_RC2LJ2ACGY7C_RTRMADP_3_SOCCER_GREECE_FAN.JPG">
+                    <div class="w-1/3 ml-4">
+                        <img class="w-full pb-4" src="https://tpc.googlesyndication.com/simgad/1353837965853906261">
+                        
+                        <div class="py-4 border-t">
+                            <div class="flex">
+                                <h1 class="text-md font-bold mr-2 mb-4">‘ম্যারাথন তো মাত্র শুরু হচ্ছে’, কমিউনিটি শিল্ডে হারের পর হলান্ড</h1>
+                                <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fd55c9a70-79ce-4024-af70-4fa6f1ffad8b%2F2023_08_06T175459Z_666061057_UP1EJ861DRLRJ_RTRMADP_3_SOCCER_ENGLAND_MCI_ARS_REPORT.JPG">
+                            </div>
+                            <span>৩ ঘণ্টা আগে</span>
+                        </div>
+                        <div class="py-4 border-t">
+                            <div class="flex">
+                                <h1 class="text-md font-bold mr-2 mb-4">গ্রিসে ফুটবল দাঙ্গায় নিহত এক, স্থগিত চ্যাম্পিয়নস লিগের ম্যাচ</h1>
+                                <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F35358332-2968-4542-ad6f-5bd8bfadd442%2F2023_08_08T110315Z_240339237_RC2LJ2ACGY7C_RTRMADP_3_SOCCER_GREECE_FAN.JPG">
+                            </div>
+                            <span>৩ ঘণ্টা আগে</span>
+                        </div>
+                        <div class="py-4 border-t">
+                            <div class="flex">
+                                <h1 class="text-md font-bold mr-2 mb-4">অধিনায়ক নিয়ে সিদ্ধান্ত হয়নি বিসিবির সভায়, জানা যাবে ১২ আগস্টের মধ্যে</h1>
+                                <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Ff6ae1e2c-4d31-4d30-95fa-ddaf375694ef%2FWhatsApp_Image_2023_08_08_at_4_54_30_PM.jpeg">
+                            </div>
+                            <span>৩ ঘণ্টা আগে</span>
+                        </div>
                     </div>
-                    <span>৩ ঘণ্টা আগে</span>
                 </div>
-                <div class="py-4 border-t">
-                    <div class="flex">
-                        <h1 class="text-md font-bold mr-2 mb-4">অধিনায়ক নিয়ে সিদ্ধান্ত হয়নি বিসিবির সভায়, জানা যাবে ১২ আগস্টের মধ্যে</h1>
-                        <img class="w-32 h-24" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Ff6ae1e2c-4d31-4d30-95fa-ddaf375694ef%2FWhatsApp_Image_2023_08_08_at_4_54_30_PM.jpeg">
-                    </div>
-                    <span>৩ ঘণ্টা আগে</span>
-                </div>
-            
             </div>
         </div>
+
+        <!-- New middle section -->
+
         <!-- end new middle section -->
         <div class="grid grid-cols-4 gap-4 border-t py-6">
             <div class="col-span-2 flex border-r pr-4">
