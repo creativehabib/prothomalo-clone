@@ -133,23 +133,23 @@
                     </ul>
                 </div>
                 <div class="border-r pr-4">
-                    <div class="py-6 border-b">
+                    <div class="py-4 border-b">
                         <span class="text-5xl font-bold text-gray-400 mb-4 block">১</span>
                         <h3 class="font-bold">কামিকাজে ড্রোন দিয়ে রুশ সেনাদের নাস্তানাবুদ: ‘এ যেন কম্পিউটারে গেম খেলার মতো’</h3>
                     </div>
-                    <div class="py-6 border-b">
+                    <div class="py-4 border-b">
                         <span class="text-5xl font-bold text-gray-400 mb-4 block">২</span>
                         <h3 class="font-bold">এত কষ্ট হচ্ছিল, মনে হচ্ছিল, আমি মারা যাব: তানজিন তিশা</h3>
                     </div>
-                    <div class="py-6 border-b">
+                    <div class="py-4 border-b">
                         <span class="text-5xl font-bold text-gray-400 mb-4 block">৩</span>
                         <h3 class="font-bold">কারাগারে ৯৯ বর্গফুটের কক্ষে যেসব সুবিধা পাচ্ছেন ইমরান</h3>
                     </div>
-                    <div class="py-6 border-b">
+                    <div class="py-4 border-b">
                         <span class="text-5xl font-bold text-gray-400 mb-4 block">৪</span>
                         <h3 class="font-bold">পিএসজি ছাড়ার ইচ্ছা ক্লাবকে জানিয়েছেন নেইমার</h3>
                     </div>
-                    <div class="py-6 border-b">
+                    <div class="py-4">
                         <span class="text-5xl font-bold text-gray-400 mb-4 block">৫</span>
                         <h3 class="font-bold">পররাষ্ট্রসচিবকে মার্কিন কর্মকর্তা দুর্নীতি দমনের ক্ষেত্রে নিষেধাজ্ঞাকে ব্যবহার করে যুক্তরাষ্ট্র</h3>
                     </div>
@@ -159,8 +159,22 @@
                 <h1 class="pb-2 font-bold">খেলা</h1>
                 <div class="flex">
                     <div class="w-2/3 pr-4 border-r">
-                        <img class="" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5ea87917-3138-4343-a829-d5ab6d5d8056%2F268642_01_02.jpg">
-                        <p class=" relative">ইন্টার মায়ামির হয়ে দারুণ সময় কাটছে মেসির মেসির ছবি নিয়ে আবেগী ভক্তদের ভুল শুধরে দিলেন সাবেক ফুটবলার</p>
+                        <div>
+                            <img class="" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5ea87917-3138-4343-a829-d5ab6d5d8056%2F268642_01_02.jpg">
+                            <p class=" relative">ইন্টার মায়ামির হয়ে দারুণ সময় কাটছে মেসির মেসির ছবি নিয়ে আবেগী ভক্তদের ভুল শুধরে দিলেন সাবেক ফুটবলার</p>
+                        </div>
+                        <div class="flex gap-6 mt-4">
+                            <div>
+                                <img class=" min-h-[200px]" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Ff6a376b2-bf6c-436b-994c-fdde0b2bcd41%2Fellyse_perry_reuters.JPG" alt="image">
+                                <p class="text-md font-bold mt-2 mb-4">ফ্রান্সকে কোয়ার্টারে অস্ট্রেলিয়া হারালে যে আক্ষেপ ঘুচবে পেরির</p>
+                                <span>১ ঘণ্টা আগে</span>
+                            </div>
+                            <div>
+                                <img class="min-h-[200px]" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F8a5ecf85-b32c-46ec-9d92-ba9d55513079%2F288185_01_02.jpg" alt="image">
+                                <p class="text-md font-bold mt-2 mb-4">চার বছরের চুক্তিতে বায়ার্নে যেতে রাজি কেইন</p>
+                                <span>১ ঘণ্টা আগে</span>
+                            </div>
+                        </div>
                     </div>
                     <div class="w-1/3 ml-4">
                         <img class="w-full pb-4" src="https://tpc.googlesyndication.com/simgad/1353837965853906261">
@@ -192,28 +206,43 @@
         </div>
 
         <!-- New middle section -->
-
-        <!-- end new middle section -->
-        <div class="grid grid-cols-4 gap-4 border-t py-6">
-            <div class="col-span-2 flex border-r pr-4">
-                <div class="mr-4">
-                    <h1 class="text-2xl font-semibold mb-4">কারাগারে ৯৯ বর্গফুটের কক্ষে যেসব সুবিধা পাচ্ছেন ইমরান</h1>
-                    <p class="mb-2 text-gray-600">গত শনিবার ইসলামাবাদের অতিরিক্ত জেলা ও দায়রা জজ সাজা ঘোষণা করার পরই ইমরান খানকে লাহোর থেকে গ্রেপ্তার করা হয়।</p>
-                    <span>১ ঘণ্টা আগে</span>
+        <div>
+            <h1 class="text-2xl font-semibold mb-2">বাংলাদেশ</h1>
+            <div class="grid grid-cols-4">
+                <div class="col-span-3 flex">
+                    <div class="w-2/3 border-r pr-4">
+                        <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fc26cba3d-1f51-44d2-bb2e-df9c0d62b7aa%2FRajshahi_DH0602_20230811_BAGMARA__ROAD_ACCEDENT_PIC.jpg">
+                        <h3>মোটরসাইকেল নিয়ে ঘুরতে বের হয়ে বিয়ের ১৮ দিনের মাথায় তরুণের মৃত্যু</h3>
+                        <p>বাগমারার হাটগাঙ্গোপাড়া পুলিশ তদন্ত কেন্দ্রের কর্মকর্তা পরিদর্শক আফজাল হোসেন প্রথম আলোকে বলেন, আইনি প্রক্রিয়া শেষে আজ বেলা ১১টার দিকে লাশ পরিবারের কাছে হস্তান্তর করা হয়েছে। এ ঘটনায় একটি অপমৃত্যুর</p>
+                        <span>৩ ঘণ্টা আগে</span>
+                    </div>
+                    <div class="w-1/3 px-4">
+                        <div>
+                            <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fd606d17f-4139-4583-8894-909188067b67%2FChattogram_DH1554_20230810_FB_IMG_1691663024527.jpg" alt="">
+                            <h2>মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                            <span>২৩ মিনিট আগে</span>
+                        </div>
+                        <div>
+                            <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                            <h2>মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                            <span>২৩ মিনিট আগে</span>
+                        </div>
+                    </div>
                 </div>
-                <div>
-                    <img class="object-cover" src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F206e27b9-e1b1-4111-b57c-a26e816b396a%2FAttock_jail.jpg">
-                    <p class="text-sm">অ্যাটক কারাগার। ১৯০৫ থেকে ১৯০৬ সালে ব্রিটিশ সরকার কারাগারটি নির্মাণ করে। এটি ৬৭ একর জমির ওপর নির্মিতফাইল ছবি: এএফপি</p>
+                <div class="pl-4 border-l">
+                    <div>
+                        <img src="https://tpc.googlesyndication.com/simgad/17894863986797966614">
+                    </div>
+                    <div>
+                        <h2>আমার এলাকার খবর</h2>
+                        <div>
+                            df
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="border-r">
-                <h1 class="text-xl mb-4 font-medium">কক্সবাজারে পাহাড়ধসে মা–মেয়েসহ চারজনের মৃত্যু</h1>
-                <p class="text-gray-600 mb-4">মৃত ব্যক্তিরা হলেন উখিয়ার বালুখালী আশ্রয়শিবিরের রোহিঙ্গা আনোয়ার ইসলামের স্ত্রী জান্নাত আরা, তাঁর মেয়ে মাহিম আক্তার, চকরিয়ার সবুজপাড়া এলাকার নাজিম উদ্দিনের ছেলে-মেয়ে তাবাচ্ছুম ও সাবিদ।</p>
-                <span>১ ঘণ্টা আগে</span>
-            </div>
-            <div>
-                <img src="https://tpc.googlesyndication.com/simgad/1353837965853906261">
             </div>
         </div>
+        <!-- end new middle section -->
+        
     </main>
 </template>
