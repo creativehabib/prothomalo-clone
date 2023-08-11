@@ -212,19 +212,19 @@
                 <div class="col-span-3 flex">
                     <div class="w-2/3 border-r pr-4">
                         <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fc26cba3d-1f51-44d2-bb2e-df9c0d62b7aa%2FRajshahi_DH0602_20230811_BAGMARA__ROAD_ACCEDENT_PIC.jpg">
-                        <h3>মোটরসাইকেল নিয়ে ঘুরতে বের হয়ে বিয়ের ১৮ দিনের মাথায় তরুণের মৃত্যু</h3>
-                        <p>বাগমারার হাটগাঙ্গোপাড়া পুলিশ তদন্ত কেন্দ্রের কর্মকর্তা পরিদর্শক আফজাল হোসেন প্রথম আলোকে বলেন, আইনি প্রক্রিয়া শেষে আজ বেলা ১১টার দিকে লাশ পরিবারের কাছে হস্তান্তর করা হয়েছে। এ ঘটনায় একটি অপমৃত্যুর</p>
+                        <h2 class="text-2xl my-2 font-semibold">মোটরসাইকেল নিয়ে ঘুরতে বের হয়ে বিয়ের ১৮ দিনের মাথায় তরুণের মৃত্যু</h2>
+                        <p class="text-gray-600 mb-4">বাগমারার হাটগাঙ্গোপাড়া পুলিশ তদন্ত কেন্দ্রের কর্মকর্তা পরিদর্শক আফজাল হোসেন প্রথম আলোকে বলেন, আইনি প্রক্রিয়া শেষে আজ বেলা ১১টার দিকে লাশ পরিবারের কাছে হস্তান্তর করা হয়েছে। এ ঘটনায় একটি অপমৃত্যুর</p>
                         <span>৩ ঘণ্টা আগে</span>
                     </div>
                     <div class="w-1/3 px-4">
-                        <div>
+                        <div class="pb-4">
                             <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2Fd606d17f-4139-4583-8894-909188067b67%2FChattogram_DH1554_20230810_FB_IMG_1691663024527.jpg" alt="">
-                            <h2>মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                            <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
                             <span>২৩ মিনিট আগে</span>
                         </div>
-                        <div>
+                        <div class="border-t pt-4">
                             <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
-                            <h2>মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                            <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
                             <span>২৩ মিনিট আগে</span>
                         </div>
                     </div>
@@ -233,12 +233,64 @@
                     <div>
                         <img src="https://tpc.googlesyndication.com/simgad/17894863986797966614">
                     </div>
-                    <div>
-                        <h2>আমার এলাকার খবর</h2>
+                    <div class="mt-4">
+                        <h2 class=" font-bold pb-2 border-b mb-4 text-blue-600">আমার এলাকার খবর</h2>
                         <div>
-                            df
+                            <form>
+                                <div class="mb-4">
+                                    <label for="distric">
+                                        <select id="distric" class="w-full px-4 py-4 rounded border">
+                                            <option>বিভাগ</option>
+                                            <option>ঢাকা</option>
+                                            <option>খুলনা</option>
+                                            <option>ময়মনসিংহ</option>
+                                        </select>
+                                    </label>
+                                </div>
+                                <div class="mb-4">
+                                    <label for="distric">
+                                        <select id="distric" class="w-full px-4 py-4 border rounded">
+                                            <option>জেলা</option>
+                                            <option>ঢাকা</option>
+                                            <option>খুলনা</option>
+                                            <option>ময়মনসিংহ</option>
+                                        </select>
+                                    </label>
+                                </div>
+                                <div class="mb-4">
+                                    <label for="distric">
+                                        <select id="distric" class="w-full px-4 py-4 border rounded">
+                                            <option>উপজেলা</option>
+                                            <option>ঢাকা</option>
+                                            <option>খুলনা</option>
+                                            <option>ময়মনসিংহ</option>
+                                        </select>
+                                    </label>
+                                </div>
+                                <button class="flex items-center justify-center py-3 border rounded text-white font-bold bg-blue-600 w-full"><span class="mr-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" /></svg></span>খুজুন</button>
+                            </form>
                         </div>
                     </div>
+                    <div class="mt-4">
+                        <img src="https://images.prothomalo.com/prothomalo-bangla/2023-04/b7e5ab7b-951f-442a-961a-149fc4fb0f04/sara_desh___banner.jpeg">
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-4 gap-6">
+                <div class="border-t pt-4">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                    <span>২৩ মিনিট আগে</span>
+                </div>
+                <div class="border-t pt-4">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                    <span>২৩ মিনিট আগে</span>
+                </div>
+                <div class="border-t pt-4">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
+                    <span>২৩ মিনিট আগে</span>
                 </div>
             </div>
         </div>
