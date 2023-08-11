@@ -278,17 +278,17 @@
             </div>
             <div class="grid grid-cols-4 gap-6">
                 <div class="border-t pt-4">
-                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2020-09%2Fbdc49b85-cb9b-44f5-91db-3b24cea17ce4%2Fbandarbans.png" alt="">
                     <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
                     <span>২৩ মিনিট আগে</span>
                 </div>
                 <div class="border-t pt-4">
-                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F160d8e97-955b-4ae2-aea7-eac002abe272%2F1_image_Template.jpg" alt="">
                     <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
                     <span>২৩ মিনিট আগে</span>
                 </div>
                 <div class="border-t pt-4">
-                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-08%2F5df9bd38-c98a-4669-8c06-50a0289d22e8%2FSYLHET_DH0778_20230811_SYLHET_GULAPGONJ_PHOTO_JPG.JPG" alt="">
+                    <img src="https://images.prothomalo.com/prothomalo-bangla%2F2023-07%2Fb1733f86-286a-41aa-a228-8ce3aea239d3%2Fprothomalo_bangla_2023_01_17e8e1fd_482c_424f_9914_604abdf5f692_prothomalo_bangla_2022_03_3aec97e4_de.webp" alt="">
                     <h2 class="text-md font-bold mr-2 mb-3">মায়ের মৃত্যুতে কলেজে পড়ার স্বপ্ন ভাঙে সাইফুলের, বন্যার পানিতে থেমে গেল জীবন</h2>
                     <span>২৩ মিনিট আগে</span>
                 </div>
